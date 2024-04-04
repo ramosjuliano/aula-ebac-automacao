@@ -1,0 +1,20 @@
+[
+    {
+       "nomeProduto": "Selene Yoga Hoodie",
+       "tamanho": "XS",
+       "cor": "Orange",
+       "quantidade": 1
+    },
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "M",
+        "cor": "Black",
+        "quantidade": 3
+     },
+     {
+        "nomeProduto": "Erica Evercool Sports Bra",
+        "tamanho": "S",
+        "cor": "Blue",
+        "quantidade": 2
+     }
+]
