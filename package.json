@@ -4,7 +4,8 @@
   "description": "Retomando as Aulas do Curso EBAC - Engenharia de Qualidade de Software",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run --browser chrome",
+    "cy:dash" : "npx cypress run --record --key 710bc48b-5e02-495f-939e-648e371f23b6"
   },
   "keywords": [],
   "author": "",
